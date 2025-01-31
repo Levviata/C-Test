@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\SDL3-3.2.0\docs\main.c">
+    <ClCompile Include="..\core\main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
